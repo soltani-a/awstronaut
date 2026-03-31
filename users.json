@@ -1778,5 +1778,16 @@
     "bio": "Cloud Engineer | AWS Golden Jacket | 12x AWS Certified",
     "linkedin": "gulias",
     "avatar": "/avatars/ricardogulias.jpg"
+  },
+  {
+    "name": "Slim Soltani Dridi",
+    "github": "soltani-a",
+    "certs": ["awstronaut"],
+    "city": "Paris",
+    "country": "France",
+    "date": "2026-05-01",
+    "bio": "Solutions Architect | AWS Golden Jacket | 15x AWS Certified",
+    "linkedin": "ssoltanid",
+    "avatar": "/avatars/slimsoltanidridi.jpg"
   }
 ]
